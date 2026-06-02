@@ -1,8 +1,6 @@
 # internspark
 "Codebase for my Machine Learning internship, focusing on training, optimizing, and deploying functional AI models."
-# [Project Name] - Machine Learning Internship Project
-
-A robust machine learning pipeline designed to [state the primary goal, e.g., predict customer churn, classify text, optimize resource allocation]. Developed during an ML Engineering Internship at [Company/Organization Name].
+# [Project] - Machine Learning Internship Project
 
 ## 📌 Project Overview
 This repository contains the core functional logic, data processing pipelines, and model architecture for [Project Name]. The focus of this project was on building a reliable, scalable system rather than just a front-end interface. It processes [type of data, e.g., raw CSV files, live API streams], extracts key features, and utilizes [Core Algorithm/Model] to generate actionable predictions.
